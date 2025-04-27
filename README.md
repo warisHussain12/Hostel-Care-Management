@@ -1,2 +1,2 @@
-# Hosteller-Care-Management-Website
+# Hostel Care Management
 This website helps the students of any hostel to raise complaints to their proctors/wardens and get a reply from their end also.
